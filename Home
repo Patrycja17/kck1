@@ -10,7 +10,7 @@
     <br>
     <div>
         <h1><b><center>Wyszukiwarka ras psów</center></b></h1>
-        <center>To jest wyszukiwarka psów, wyszukuje psy, jak chcesz znaleźć psa to wyszukujesz go wyszukiwarką.<br>
+        <center>Wybierz odpowiednią opcję pod konkretnym kryterium, a strona pokaże Ci rasy psów, które pasują do Twojego wyboru.<br>
 
             <div><br>
                 <h3>Wybierz kategorię:</h3>
@@ -54,7 +54,7 @@
                     <font size="2">
                         <b>Pies a dziecko:<br></b>
                         <button onclick="window.location.href = 'podstrony/przyjaznedzieciom.html';">Pies może wychowywać się z dzieckiem</button>
-                        <button onclick="window.location.href = 'podstrony/nieprzyjaznedzieiom.html';">Raczej nie polecane</button>
+                        <button onclick="window.location.href = 'podstrony/nieprzyjaznedzieciom.html';">Raczej niepolecane</button>
                         <br>
                     </font>
                 </div>
@@ -85,9 +85,9 @@
                 <div>
                     <font size="2">
                         <b>Pies jako ochroniarz:<br></b>
-                        <button onclick="window.location.href = 'podstrony/dobraochrona.html';">Rasa nie nadaje się do ochrony</button>
+                        <button onclick="window.location.href = 'podstrony/zlaochrona.html';">Rasa nie nadaje się do ochrony</button>
                         <button onclick="window.location.href = 'podstrony/warunkowaochrona.html';">Rasa nadaje się warunkowo</button>
-                        <button onclick="window.location.href = 'podstrony/zlaochrona.html';">Rasa pretendowana do roli stróża</button>
+                        <button onclick="window.location.href = 'podstrony/dobraochrona.html';">Rasa pretendowana do roli stróża</button>
                         <br>
                     </font>
                 </div>
@@ -106,7 +106,7 @@
                 <div>
                     <font size="2">
                         <b>Charakter:<br></b>
-                        <button onclick="window.location.href = 'podstrony/charulegly.html';">Uległy</button>
+                        <button onclick="window.location.href = 'podstrony/charprzyjazny.html';">Uległy</button>
                         <button onclick="window.location.href = 'podstrony/charposredni.html';">Pośredni</button>
                         <button onclick="window.location.href = 'podstrony/chardominujacy.html';">Dominujący </button>
                         <br>
@@ -129,8 +129,8 @@
                     <font size="2">
                         <b>Koszt utrzymania psa:<br></b>
                         <button onclick="window.location.href = 'podstrony/kosztduzy.html';">Drogi w utrzymaniu</button>
-                        <button onclick="window.location.href = 'podstrony/kosztsredni.html';">Kosz przeciętny</button>
-                        <button onclick="window.location.href = 'podstrony/kosztduzy.html';">Tani w utrzymaniu</button>
+                        <button onclick="window.location.href = 'podstrony/kosztsredni.html';">Koszt przeciętny</button>
+                        <button onclick="window.location.href = 'podstrony/kosztmaly.html';">Tani w utrzymaniu</button>
                         <br>
                     </font>
                 </div>
